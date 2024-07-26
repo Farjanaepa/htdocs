@@ -1,0 +1,6 @@
+1)prothom e database e project naam e ekta database banaba
+2)tarpor project.sql naam e file tah import korba
+3)eibar login er khetre 3 dhoroner user thakbe
+    -direct localhost die ei folder open korle libarian er login hobe
+    -ei foldr er path likhe /user dile tkhn student and user login er option paba
+4)jenkno login er khetrey username password farjana diba
