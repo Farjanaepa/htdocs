@@ -30,5 +30,5 @@ $c2->a = 35;
 
 echo "Sum value of c1 :" . $c1->sum() . "\n";
 
-echo "Substraction value of c2 :" . $c1->sub();
+echo "Substraction value of c2 :" . $c2->sub();
 ?>
