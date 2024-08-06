@@ -28,7 +28,7 @@ $c2 = new calculation();
 $c2->a = 23;
 $c2->a = 35;
 
-echo "Sum value of c1 :" . $c1->sum() . "\n";
+echo "Sum value of C1 :" . $c1->sum() . "\n";
 
-echo "Substraction value of c2 :" . $c2->sub();
+echo "Substraction value of C2 :" . $c2->sub();
 ?>
