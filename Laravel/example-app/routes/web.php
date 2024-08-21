@@ -16,24 +16,24 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
-Route::get('/postsssss', function () {
+// Route::get('/postsssss', function () {
+//     return view('post');
+//     })->name('mypost');
+
+
+Route::get('/post', function () {
     return view('post');
-})->name('mypost');
-
-
-Route::get('/post/firstpost', function () {
-    return view('firstpost');
 });
 
 // multiple parametter pass ------------
 
-Route::get('/post/{id?}/comment/{commentid?}', function (string $id = null, string $comment=null) {
+// Route::get('/post/{id?}/comment/{commentid?}', function (string $id = null, string $comment=null) {
     
-    if($id){
-        return "<h1>Post Id : " . $id ."</h1><h2>" . $comment . "</h2>";
-    }else {
-        return "<h1> NO ID Found </h1>";
-    }
+//     if($id){
+//         return "<h1>Post Id : " . $id ."</h1><h2>" . $comment . "</h2>";
+//     }else {
+//         return "<h1> NO ID Found </h1>";
+//     }
     
     
-});
+// });

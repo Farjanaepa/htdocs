@@ -39,19 +39,17 @@
 	</script>
 <meta name="robots" content="noindex, nofollow" />
 
-<title>About - Coffee House</title>
+<title>Coffee House</title>
 <meta property="og:locale" content="en_US" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="About - Coffee House" />
-<meta property="og:description" content="About Us A wonderful Coffee house, that combines lorem ipsum and dolor sit amet. We are one of the most lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore [&hellip;]" />
-<meta property="og:url" content="https://websitedemos.net/coffee-house-02/about/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Coffee House" />
+<meta property="og:description" content="Welcome! Come enjoy the lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod Book a table About Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip [&hellip;]" />
+<meta property="og:url" content="https://websitedemos.net/coffee-house-02/" />
 <meta property="og:site_name" content="Coffee House" />
-<meta property="article:modified_time" content="2024-01-18T17:58:44+00:00" />
-<meta property="og:image" content="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-01-free-img.jpg" />
+<meta property="article:modified_time" content="2024-01-18T17:56:30+00:00" />
+<meta property="og:image" content="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/about-01-free-img.png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:label1" content="Est. reading time" />
-<meta name="twitter:data1" content="6 minutes" />
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://websitedemos.net/coffee-house-02/about/","url":"https://websitedemos.net/coffee-house-02/about/","name":"About - Coffee House","isPartOf":{"@id":"https://websitedemos.net/coffee-house-02/#website"},"primaryImageOfPage":{"@id":"https://websitedemos.net/coffee-house-02/about/#primaryimage"},"image":{"@id":"https://websitedemos.net/coffee-house-02/about/#primaryimage"},"thumbnailUrl":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-01-free-img.jpg","datePublished":"2021-04-30T16:11:32+00:00","dateModified":"2024-01-18T17:58:44+00:00","breadcrumb":{"@id":"https://websitedemos.net/coffee-house-02/about/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://websitedemos.net/coffee-house-02/about/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://websitedemos.net/coffee-house-02/about/#primaryimage","url":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-01-free-img.jpg","contentUrl":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-01-free-img.jpg","width":768,"height":810},{"@type":"BreadcrumbList","@id":"https://websitedemos.net/coffee-house-02/about/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://websitedemos.net/coffee-house-02/"},{"@type":"ListItem","position":2,"name":"About"}]},{"@type":"WebSite","@id":"https://websitedemos.net/coffee-house-02/#website","url":"https://websitedemos.net/coffee-house-02/","name":"Coffee House","description":"Great Times, Good Coffee.","publisher":{"@id":"https://websitedemos.net/coffee-house-02/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://websitedemos.net/coffee-house-02/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://websitedemos.net/coffee-house-02/#organization","name":"Coffee House","url":"https://websitedemos.net/coffee-house-02/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://websitedemos.net/coffee-house-02/#/schema/logo/image/","url":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png","contentUrl":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png","width":192,"height":137,"caption":"Coffee House"},"image":{"@id":"https://websitedemos.net/coffee-house-02/#/schema/logo/image/"}}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://websitedemos.net/coffee-house-02/","url":"https://websitedemos.net/coffee-house-02/","name":"Home - Coffee House","isPartOf":{"@id":"https://websitedemos.net/coffee-house-02/#website"},"about":{"@id":"https://websitedemos.net/coffee-house-02/#organization"},"primaryImageOfPage":{"@id":"https://websitedemos.net/coffee-house-02/#primaryimage"},"image":{"@id":"https://websitedemos.net/coffee-house-02/#primaryimage"},"thumbnailUrl":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/about-01-free-img.png","datePublished":"2021-04-30T16:10:54+00:00","dateModified":"2024-01-18T17:56:30+00:00","breadcrumb":{"@id":"https://websitedemos.net/coffee-house-02/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://websitedemos.net/coffee-house-02/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://websitedemos.net/coffee-house-02/#primaryimage","url":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/about-01-free-img.png","contentUrl":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/about-01-free-img.png","width":570,"height":636},{"@type":"BreadcrumbList","@id":"https://websitedemos.net/coffee-house-02/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://websitedemos.net/coffee-house-02/#website","url":"https://websitedemos.net/coffee-house-02/","name":"Coffee House","description":"Great Times, Good Coffee.","publisher":{"@id":"https://websitedemos.net/coffee-house-02/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://websitedemos.net/coffee-house-02/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://websitedemos.net/coffee-house-02/#organization","name":"Coffee House","url":"https://websitedemos.net/coffee-house-02/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://websitedemos.net/coffee-house-02/#/schema/logo/image/","url":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png","contentUrl":"https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png","width":192,"height":137,"caption":"Coffee House"},"image":{"@id":"https://websitedemos.net/coffee-house-02/#/schema/logo/image/"}}]}</script>
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com" />
 <link rel="alternate" type="application/rss+xml" title="Coffee House &raquo; Feed" href="https://websitedemos.net/coffee-house-02/feed/" />
@@ -179,7 +177,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="swiper-css" href="https://websitedemos.net/coffee-house-02/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all" />
 <link rel="stylesheet" id="elementor-post-8-css" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/elementor/css/post-8.css?ver=1698755146" media="all" />
 <link rel="stylesheet" id="astra-sites-showcase-blocks-css" href="https://websitedemos.net/coffee-house-02/wp-content/plugins/astra-sites-showcase/assets/css/blocks.css?ver=2.4.3" media="all" />
-<link rel="stylesheet" id="elementor-post-9-css" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/elementor/css/post-9.css?ver=1718272180" media="all" />
+<link rel="stylesheet" id="elementor-post-6-css" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/elementor/css/post-6.css?ver=1718278402" media="all" />
 <style id="google-fonts-1-css" media="all">/* cyrillic-ext */
 @font-face {
   font-family: 'Roboto';
@@ -1376,11 +1374,11 @@ var starterTemplatesPreview = {"site_url":"https:\/\/websitedemos.net\/coffee-ho
 <script id="starter-templates-preview-js-js-after">
 ( window.self === window.top ) || document.write( '<script src="https://websitedemos.net/coffee-house-02/wp-content/plugins/astra-sites-server/dist/template-preview/main.js?ver=ae2e87f495819b6e9f4f"></scr' + 'ipt>' );
 </script>
-<link rel="https://api.w.org/" href="https://websitedemos.net/coffee-house-02/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://websitedemos.net/coffee-house-02/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://websitedemos.net/coffee-house-02/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://websitedemos.net/coffee-house-02/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://websitedemos.net/coffee-house-02/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://websitedemos.net/coffee-house-02/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.6.1" />
-<link rel="shortlink" href="https://websitedemos.net/coffee-house-02/?p=9" />
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://websitedemos.net/coffee-house-02/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwebsitedemos.net%2Fcoffee-house-02%2Fabout%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://websitedemos.net/coffee-house-02/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwebsitedemos.net%2Fcoffee-house-02%2Fabout%2F&#038;format=xml" />
+<link rel="shortlink" href="https://websitedemos.net/coffee-house-02/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://websitedemos.net/coffee-house-02/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwebsitedemos.net%2Fcoffee-house-02%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://websitedemos.net/coffee-house-02/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwebsitedemos.net%2Fcoffee-house-02%2F&#038;format=xml" />
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -1412,7 +1410,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="apple-touch-icon" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/cropped-favicon-free-img-180x180.png" />
 <meta name="msapplication-TileImage" content="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/cropped-favicon-free-img-270x270.png" />
 </head>
-<body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="page-template-default page page-id-9 wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-4.7.3 ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-9">
+<body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="home page-template-default page page-id-6 wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-4.7.3 ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header elementor-default elementor-kit-8 elementor-page elementor-page-6">
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PW78FQ8"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -1428,10 +1426,10 @@ Skip to content</a>
 <div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-grid-center-col-layout">
 <div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
 <div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
-<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation-desktop" aria-label="Site Navigation: Menu" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-18"><a href="https://websitedemos.net/coffee-house-02/" class="menu-link">Home</a></li>
-<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-16"><a href="https://websitedemos.net/coffee-house-02/about/" aria-current="page" class="menu-link">About</a></li>
+<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation-desktop" aria-label="Site Navigation: Menu" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-18"><a href="https://websitedemos.net/coffee-house-02/" aria-current="page" class="menu-link">Home</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="/about" class="menu-link">About</a></li>
 <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://websitedemos.net/coffee-house-02/menu/" class="menu-link">Menu</a></li>
-<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://websitedemos.net/coffee-house-02/contact/" class="menu-link">Contact</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="/post" class="menu-link">Contact</a></li>
 </ul></div></nav></div></div> </div>
 <div class="site-header-primary-section-left-center site-header-section ast-flex ast-grid-left-center-section">
 </div>
@@ -1439,7 +1437,7 @@ Skip to content</a>
 <div class="site-header-primary-section-center site-header-section ast-flex ast-grid-section-center">
 <div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
 <div class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-<span class="site-logo-img"><a href="https://websitedemos.net/coffee-house-02/" class="custom-logo-link" rel="home"><img width="192" height="137" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png" class="custom-logo" alt="Coffee House" decoding="async" srcset="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png 1x, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-retina-001-free-img.png 2x" /></a></span> </div>
+<span class="site-logo-img"><a href="https://websitedemos.net/coffee-house-02/" class="custom-logo-link" rel="home" aria-current="page"><img width="192" height="137" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png" class="custom-logo" alt="Coffee House" decoding="async" srcset="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png 1x, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-retina-001-free-img.png 2x" /></a></span> </div>
 
 </div>
 </div>
@@ -1461,7 +1459,7 @@ Skip to content</a>
 <div class="site-header-primary-section-center site-header-section ast-flex ast-grid-section-center">
 <div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
 <div class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-<span class="site-logo-img"><a href="https://websitedemos.net/coffee-house-02/" class="custom-logo-link" rel="home"><img width="192" height="137" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png" class="custom-logo" alt="Coffee House" decoding="async" srcset="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png 1x, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-retina-001-free-img.png 2x" /></a></span> </div>
+<span class="site-logo-img"><a href="https://websitedemos.net/coffee-house-02/" class="custom-logo-link" rel="home" aria-current="page"><img width="192" height="137" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png" class="custom-logo" alt="Coffee House" decoding="async" srcset="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-regular-001-free-img.png 1x, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/logo-retina-001-free-img.png 2x" /></a></span> </div>
 
 </div>
 </div>
@@ -1487,8 +1485,8 @@ Skip to content</a>
 </div>
 <div class="ast-mobile-header-content content-align-flex-start ">
 <div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-header-mobile-menu">
-<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="ast-mobile-site-navigation" aria-label="Site Navigation: Menu" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation"><ul id="ast-hf-mobile-menu" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-18"><a href="https://websitedemos.net/coffee-house-02/" class="menu-link">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-16"><a href="https://websitedemos.net/coffee-house-02/about/" aria-current="page" class="menu-link">About</a></li>
+<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="ast-mobile-site-navigation" aria-label="Site Navigation: Menu" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation"><ul id="ast-hf-mobile-menu" class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-18"><a href="https://websitedemos.net/coffee-house-02/" aria-current="page" class="menu-link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="https://websitedemos.net/coffee-house-02/about/" class="menu-link">About</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://websitedemos.net/coffee-house-02/menu/" class="menu-link">Menu</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://websitedemos.net/coffee-house-02/contact/" class="menu-link">Contact</a></li>
 </ul></div></nav></div></div> </div>
@@ -1499,238 +1497,10 @@ Skip to content</a>
 <div class="ast-container">
 <div id="primary" class="content-area primary">
 <main id="main" class="site-main">
-<article class="post-9 page type-page status-publish ast-article-single" id="post-9" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
-<header class="entry-header ast-no-title ast-header-without-markup">
-</header> 
-<div class="entry-content clear" itemprop="text">
-<div data-elementor-type="wp-page" data-elementor-id="9" class="elementor elementor-9">
-<div class="elementor-element elementor-element-dc915ad e-flex e-con-boxed e-con e-parent" data-id="dc915ad" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="e-con-inner">
-<div class="elementor-element elementor-element-854cd4b e-con-full e-flex e-con e-child" data-id="854cd4b" data-element_type="container">
-<div class="elementor-element elementor-element-e7008d7 elementor-widget elementor-widget-heading" data-id="e7008d7" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h1 class="elementor-heading-title elementor-size-default">About Us</h1> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-935ec2a e-flex e-con-boxed e-con e-parent" data-id="935ec2a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="e-con-inner">
-<div class="elementor-element elementor-element-6701633 e-con-full e-flex e-con e-child" data-id="6701633" data-element_type="container">
-<div class="elementor-element elementor-element-bdfb3b6 e-con-full e-flex e-con e-child" data-id="bdfb3b6" data-element_type="container">
-<div class="elementor-element elementor-element-fb15124 elementor-widget elementor-widget-heading" data-id="fb15124" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h5 class="elementor-heading-title elementor-size-default">A wonderful Coffee house, that combines lorem ipsum and dolor sit amet.</h5> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-71aa066 e-con-full e-flex e-con e-child" data-id="71aa066" data-element_type="container">
-<div class="elementor-element elementor-element-288f214 elementor-widget elementor-widget-heading" data-id="288f214" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">We are one of the most lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua.</h3> </div>
-</div>
-<div class="elementor-element elementor-element-cf857f2 elementor-widget elementor-widget-text-editor" data-id="cf857f2" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p> </div>
-</div>
-<div class="elementor-element elementor-element-5a3fb17 elementor-widget elementor-widget-text-editor" data-id="5a3fb17" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-dc1966c e-con-full e-flex e-con e-parent" data-id="dc1966c" data-element_type="container">
-<div class="elementor-element elementor-element-5f18416 e-con-full e-flex e-con e-child" data-id="5f18416" data-element_type="container">
-<div class="elementor-element elementor-element-ec5106d elementor-widget elementor-widget-image-carousel" data-id="ec5106d" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
-<div class="elementor-widget-container">
-<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
-<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ec5106d" data-elementor-lightbox-title="gallery-01-free-img" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjM1NiIsInVybCI6Imh0dHBzOlwvXC93ZWJzaXRlZGVtb3MubmV0XC9jb2ZmZWUtaG91c2UtMDJcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC84MzVcLzIwMjFcLzA1XC9nYWxsZXJ5LTAxLWZyZWUtaW1nLmpwZyIsInNsaWRlc2hvdyI6ImVjNTEwNmQifQ%3D%3D" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-01-free-img.jpg"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-01-free-img.jpg" alt="gallery-01-free-img" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ec5106d" data-elementor-lightbox-title="gallery-04-free-img" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjM1OSIsInVybCI6Imh0dHBzOlwvXC93ZWJzaXRlZGVtb3MubmV0XC9jb2ZmZWUtaG91c2UtMDJcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC84MzVcLzIwMjFcLzA1XC9nYWxsZXJ5LTA0LWZyZWUtaW1nLmpwZyIsInNsaWRlc2hvdyI6ImVjNTEwNmQifQ%3D%3D" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-04-free-img.jpg"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-04-free-img.jpg" alt="gallery-04-free-img" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ec5106d" data-elementor-lightbox-title="gallery-05-free-img" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjQwNiIsInVybCI6Imh0dHBzOlwvXC93ZWJzaXRlZGVtb3MubmV0XC9jb2ZmZWUtaG91c2UtMDJcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC84MzVcLzIwMjFcLzA1XC9nYWxsZXJ5LTA1LWZyZWUtaW1nLmpwZyIsInNsaWRlc2hvdyI6ImVjNTEwNmQifQ%3D%3D" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-05-free-img.jpg"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-05-free-img.jpg" alt="gallery-05-free-img" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="ec5106d" data-elementor-lightbox-title="gallery-08-free-img" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjQwNyIsInVybCI6Imh0dHBzOlwvXC93ZWJzaXRlZGVtb3MubmV0XC9jb2ZmZWUtaG91c2UtMDJcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC84MzVcLzIwMjFcLzA1XC9nYWxsZXJ5LTA4LWZyZWUtaW1nLmpwZyIsInNsaWRlc2hvdyI6ImVjNTEwNmQifQ%3D%3D" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-08-free-img.jpg"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-08-free-img.jpg" alt="gallery-08-free-img" /></figure></a></div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-6696aba e-con-full e-flex e-con e-child" data-id="6696aba" data-element_type="container">
-<div class="elementor-element elementor-element-6a5d6bc elementor-widget elementor-widget-image-carousel" data-id="6a5d6bc" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
-<div class="elementor-widget-container">
-<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
-<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
-<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6a5d6bc" data-elementor-lightbox-title="gallery-02-free-img" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjM1NyIsInVybCI6Imh0dHBzOlwvXC93ZWJzaXRlZGVtb3MubmV0XC9jb2ZmZWUtaG91c2UtMDJcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC84MzVcLzIwMjFcLzA1XC9nYWxsZXJ5LTAyLWZyZWUtaW1nLmpwZyIsInNsaWRlc2hvdyI6IjZhNWQ2YmMifQ%3D%3D" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-02-free-img.jpg"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-02-free-img.jpg" alt="gallery-02-free-img" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6a5d6bc" data-elementor-lightbox-title="gallery-003-free-img" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjM5MiIsInVybCI6Imh0dHBzOlwvXC93ZWJzaXRlZGVtb3MubmV0XC9jb2ZmZWUtaG91c2UtMDJcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC84MzVcLzIwMjFcLzA1XC9nYWxsZXJ5LTAwMy1mcmVlLWltZy5qcGciLCJzbGlkZXNob3ciOiI2YTVkNmJjIn0%3D" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-003-free-img.jpg"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-003-free-img.jpg" alt="gallery-003-free-img" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6a5d6bc" data-elementor-lightbox-title="gallery-06-free-img" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjQwOCIsInVybCI6Imh0dHBzOlwvXC93ZWJzaXRlZGVtb3MubmV0XC9jb2ZmZWUtaG91c2UtMDJcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC84MzVcLzIwMjFcLzA1XC9nYWxsZXJ5LTA2LWZyZWUtaW1nLmpwZyIsInNsaWRlc2hvdyI6IjZhNWQ2YmMifQ%3D%3D" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-06-free-img.jpg"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-06-free-img.jpg" alt="gallery-06-free-img" /></figure></a></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4"><a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="6a5d6bc" data-elementor-lightbox-title="gallery-07-free-img" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6IjQwOSIsInVybCI6Imh0dHBzOlwvXC93ZWJzaXRlZGVtb3MubmV0XC9jb2ZmZWUtaG91c2UtMDJcL3dwLWNvbnRlbnRcL3VwbG9hZHNcL3NpdGVzXC84MzVcLzIwMjFcLzA1XC9nYWxsZXJ5LTA3LWZyZWUtaW1nLmpwZyIsInNsaWRlc2hvdyI6IjZhNWQ2YmMifQ%3D%3D" href="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-07-free-img.jpg"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/gallery-07-free-img.jpg" alt="gallery-07-free-img" /></figure></a></div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-5b62286 e-flex e-con-boxed e-con e-parent" data-id="5b62286" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="e-con-inner">
-<div class="elementor-element elementor-element-4ae651b elementor-widget elementor-widget-heading" data-id="4ae651b" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">We Serve One of the Best Coffee!</h2> </div>
-</div>
-<div class="elementor-element elementor-element-aa6c265 e-con-full e-flex e-con e-child" data-id="aa6c265" data-element_type="container">
-<div class="elementor-element elementor-element-99dce6f e-con-full e-flex e-con e-child" data-id="99dce6f" data-element_type="container">
-<div class="elementor-element elementor-element-d35865c elementor-widget elementor-widget-heading" data-id="d35865c" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h5 class="elementor-heading-title elementor-size-default">We are an icon place lorem ipsum dolor sit amet, elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</h5> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-7b2e266 e-con-full e-flex e-con e-child" data-id="7b2e266" data-element_type="container">
-<div class="elementor-element elementor-element-b9de8e2 elementor-widget elementor-widget-heading" data-id="b9de8e2" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">The place where different coffee beans from all over the world meet. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</h3> </div>
-</div>
-<div class="elementor-element elementor-element-a871c4d elementor-widget elementor-widget-text-editor" data-id="a871c4d" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-b893d14 e-flex e-con-boxed e-con e-parent" data-id="b893d14" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="e-con-inner">
-<div class="elementor-element elementor-element-8d762b7 e-con-full e-flex e-con e-child" data-id="8d762b7" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-element elementor-element-e7ef4fa elementor-widget elementor-widget-heading" data-id="e7ef4fa" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Reviews</h2> </div>
-</div>
-<div class="elementor-element elementor-element-a9cbef8 elementor-widget elementor-widget-heading" data-id="a9cbef8" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h5 class="elementor-heading-title elementor-size-default">Our average customer rating is 4.8 / 5</h5> </div>
-</div>
-<div class="elementor-element elementor-element-d913ad2 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="d913ad2" data-element_type="widget" data-widget_type="star-rating.default">
-<div class="elementor-widget-container">
-<div class="elementor-star-rating__wrapper">
-<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-813b27e elementor-widget elementor-widget-testimonial" data-id="813b27e" data-element_type="widget" data-widget_type="testimonial.default">
-<div class="elementor-widget-container">
-<div class="elementor-testimonial-wrapper">
-<div class="elementor-testimonial-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
-<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-<div class="elementor-testimonial-meta-inner">
-<div class="elementor-testimonial-image">
-<img decoding="async" width="100" height="100" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/testimonial-09-free-img.jpg" class="attachment-full size-full wp-image-93" alt /> </div>
-<div class="elementor-testimonial-details">
-<div class="elementor-testimonial-name">Claudia Taylor</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-fea88b4 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="fea88b4" data-element_type="widget" data-widget_type="divider.default">
-<div class="elementor-widget-container">
-<div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-215c64b elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="215c64b" data-element_type="widget" data-widget_type="star-rating.default">
-<div class="elementor-widget-container">
-<div class="elementor-star-rating__wrapper">
-<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div> </div>
-</div>
-</div>
-<div class="elementor-element elementor-element-ecbb566 elementor-widget elementor-widget-testimonial" data-id="ecbb566" data-element_type="widget" data-widget_type="testimonial.default">
-<div class="elementor-widget-container">
-<div class="elementor-testimonial-wrapper">
-<div class="elementor-testimonial-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
-<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-<div class="elementor-testimonial-meta-inner">
-<div class="elementor-testimonial-image">
-<img decoding="async" width="100" height="100" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/testimonial-13-free-img.jpg" class="attachment-full size-full wp-image-94" alt /> </div>
-<div class="elementor-testimonial-details">
-<div class="elementor-testimonial-name">Winston Oliver</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-1249dbb elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1249dbb" data-element_type="widget" data-widget_type="divider.default">
-<div class="elementor-widget-container">
-<div class="elementor-divider">
-<span class="elementor-divider-separator">
-</span>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-7646791 elementor-align-right elementor-widget elementor-widget-button" data-id="7646791" data-element_type="widget" data-widget_type="button.default">
-<div class="elementor-widget-container">
-<div class="elementor-button-wrapper">
-<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
-<span class="elementor-button-content-wrapper">
-<span class="elementor-button-text">Read More Reviews</span>
-</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-02f8cdc e-con-full e-flex e-con e-parent" data-id="02f8cdc" data-element_type="container">
-<div class="elementor-element elementor-element-2aef48a e-con-full e-flex e-con e-child" data-id="2aef48a" data-element_type="container">
-<div class="elementor-element elementor-element-0fcb6a4 elementor-widget elementor-widget-image" data-id="0fcb6a4" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<a href="#">
-<img fetchpriority="high" decoding="async" width="384" height="384" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-01-free-img.jpg" class="attachment-full size-full wp-image-24" alt srcset="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-01-free-img.jpg 384w, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-01-free-img-300x300.jpg 300w, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-01-free-img-150x150.jpg 150w" sizes="(max-width: 384px) 100vw, 384px" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-fcad55b e-con-full e-flex e-con e-child" data-id="fcad55b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-<div class="elementor-element elementor-element-f4a52e0 elementor-view-default elementor-widget elementor-widget-icon" data-id="f4a52e0" data-element_type="widget" data-widget_type="icon.default">
-<div class="elementor-widget-container">
-<div class="elementor-icon-wrapper">
-<div class="elementor-icon">
-<i aria-hidden="true" class="fab fa-instagram"></i> </div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-3dab5d1 e-con-full e-flex e-con e-child" data-id="3dab5d1" data-element_type="container">
-<div class="elementor-element elementor-element-fc3d210 e-con-full e-flex e-con e-child" data-id="fc3d210" data-element_type="container">
-<div class="elementor-element elementor-element-cd9caa1 elementor-widget elementor-widget-heading" data-id="cd9caa1" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h4 class="elementor-heading-title elementor-size-default">Follow us on</h4> </div>
-</div>
-<div class="elementor-element elementor-element-2de33a3 elementor-widget elementor-widget-image" data-id="2de33a3" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<img loading="lazy" decoding="async" width="245" height="69" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/05/insta-logo-img.png" class="attachment-full size-full wp-image-109" alt /> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-56875d6 e-con-full e-flex e-con e-child" data-id="56875d6" data-element_type="container">
-<div class="elementor-element elementor-element-d5d2995 elementor-widget elementor-widget-image" data-id="d5d2995" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<a href="#">
-<img loading="lazy" decoding="async" width="384" height="384" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-03-free-img.jpg" class="attachment-full size-full wp-image-26" alt srcset="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-03-free-img.jpg 384w, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-03-free-img-300x300.jpg 300w, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-03-free-img-150x150.jpg 150w" sizes="(max-width: 384px) 100vw, 384px" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-4f79c39 e-con-full e-flex e-con e-child" data-id="4f79c39" data-element_type="container">
-<div class="elementor-element elementor-element-c2fa0ab elementor-widget elementor-widget-image" data-id="c2fa0ab" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<a href="#">
-<img loading="lazy" decoding="async" width="384" height="384" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-02-free-img.jpg" class="attachment-full size-full wp-image-25" alt srcset="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-02-free-img.jpg 384w, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-02-free-img-300x300.jpg 300w, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-02-free-img-150x150.jpg 150w" sizes="(max-width: 384px) 100vw, 384px" /> </a>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-786b23e e-con-full e-flex e-con e-child" data-id="786b23e" data-element_type="container">
-<div class="elementor-element elementor-element-b878220 elementor-widget elementor-widget-image" data-id="b878220" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<a href="#">
-<img loading="lazy" decoding="async" width="384" height="384" src="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-04-free-img.jpg" class="attachment-full size-full wp-image-27" alt srcset="https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-04-free-img.jpg 384w, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-04-free-img-300x300.jpg 300w, https://websitedemos.net/coffee-house-02/wp-content/uploads/sites/835/2021/04/insta-04-free-img-150x150.jpg 150w" sizes="(max-width: 384px) 100vw, 384px" /> </a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+   
+    @yield('content')
+
+
 </article>
 </main>
 </div>
@@ -1756,8 +1526,8 @@ Skip to content</a>
 </div>
 <div class="site-footer-primary-section-5 site-footer-section site-footer-section-5">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-2" aria-label="Footer Widget 2">
-<section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Menu</h2><nav class="menu-menu-container" aria-label="Menu"><ul id="menu-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-18"><a href="https://websitedemos.net/coffee-house-02/" class="menu-link">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-16"><a href="https://websitedemos.net/coffee-house-02/about/" aria-current="page" class="menu-link">About</a></li>
+<section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Menu</h2><nav class="menu-menu-container" aria-label="Menu"><ul id="menu-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-18"><a href="https://websitedemos.net/coffee-house-02/" aria-current="page" class="menu-link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="https://websitedemos.net/coffee-house-02/about/" class="menu-link">About</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="https://websitedemos.net/coffee-house-02/menu/" class="menu-link">Menu</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://websitedemos.net/coffee-house-02/contact/" class="menu-link">Contact</a></li>
 </ul></nav></section> </aside>
@@ -1765,7 +1535,7 @@ Skip to content</a>
 <div class="site-footer-primary-section-6 site-footer-section site-footer-section-6">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-4" aria-label="Footer Widget 4">
 <section id="custom_html-3" class="widget_text widget widget_custom_html"><h2 class="widget-title">Contact</h2><div class="textwidget custom-html-widget">929-242-6868
-<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="52313d3c26333126123b3c343d7c313d3f">[email&#160;protected]</a>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8be8e4e5ffeae8ffcbe2e5ede4a5e8e4e6">[email&#160;protected]</a>
 123 Fifth Avenue, New York,
 NY 10160</div></section> </aside>
 </div>
@@ -1811,6 +1581,7 @@ NY 10160</div></section> </aside>
 					document.addEventListener( event, lazyloadRunObserver );
 				} );
 			</script>
+<link rel="stylesheet" id="e-animations-css" href="https://websitedemos.net/coffee-house-02/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.23.4" media="all" />
 <script id="astra-theme-js-js-extra">
 var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"","is_scroll_to_top":"","is_header_footer_builder_active":"1","responsive_cart_click":"flyout"};
 </script>
@@ -1837,7 +1608,7 @@ var showcaseCTA = {"adminUrl":"https:\/\/websitedemos.net\/coffee-house-02\/wp-a
 <script src="https://websitedemos.net/coffee-house-02/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
 <script src="https://websitedemos.net/coffee-house-02/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.23.4","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"container_grid":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"e_lazyload":true},"urls":{"assets":"https:\/\/websitedemos.net\/coffee-house-02\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/websitedemos.net\/coffee-house-02\/wp-admin\/admin-ajax.php"},"nonces":{"floatingButtonsClickTracking":"4fd6a73d79"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":9,"title":"About%20-%20Coffee%20House","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.23.4","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"container":true,"container_grid":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"e_lazyload":true},"urls":{"assets":"https:\/\/websitedemos.net\/coffee-house-02\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/websitedemos.net\/coffee-house-02\/wp-admin\/admin-ajax.php"},"nonces":{"floatingButtonsClickTracking":"4fd6a73d79"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":6,"title":"Home%20-%20Coffee%20House","excerpt":"","featuredImage":false}};
 </script>
 <script src="https://websitedemos.net/coffee-house-02/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4" id="elementor-frontend-js"></script>
 <script src="https://websitedemos.net/coffee-house-02/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
@@ -1852,6 +1623,6 @@ var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"
 <script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8b6d4ccc28494043","serverTiming":{"name":{"cfL4":true}},"version":"2024.8.0","token":"974d812d4f9e465096df037cad7ee20d"}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8b6d3d3b7e666ee3","serverTiming":{"name":{"cfL4":true}},"version":"2024.8.0","token":"974d812d4f9e465096df037cad7ee20d"}' crossorigin="anonymous"></script>
 </body>
 </html>

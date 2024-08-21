@@ -1,1 +1,1 @@
-<h1>Our post page</h1>
+@extends('layouts.masterlayout')
