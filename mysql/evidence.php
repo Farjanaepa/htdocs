@@ -28,7 +28,7 @@ if (isset($_POST['delete'])){
 
 ?>
 
-    <h3>Manufacture table</h3>
+    <h3>Manufacturer table</h3>
 
     <form action="#" method=post>
         <table>
