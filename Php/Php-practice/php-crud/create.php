@@ -31,7 +31,7 @@
             <title>Document</title>
         </head>
         <body>
-            <h2>Signup Form</h2>
+            <h2>CRUD Signup Form</h2>
 
             <form action="" method="POST">
                 <fieldset>
